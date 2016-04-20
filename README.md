@@ -2,6 +2,8 @@
 
 Parse atomdoc with JavaScript / CoffeeScript.
 
+New line.
+
 Atomdoc is a code documentation format based on markdown. The atom team writes a lot of markdown, and its rules are deep in our brains. So rather than adopting some other format we'd need to learn, we decided to build a parser around a few markdown conventions.
 
 ## Usage
